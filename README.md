@@ -27,4 +27,10 @@ As A User
 
 
 # ERD 
-![Alt text](<img/Screen Shot 2023-12-21 at 9.44.09 AM.png>)
+![ERD](<img/Screen Shot 2023-12-21 at 3.45.38 PM.png>)
+
+
+# Wireframe
+
+![Alt text](<img/Screen Shot 2023-12-21 at 5.42.05 PM.png>)
+
